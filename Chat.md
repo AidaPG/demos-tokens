@@ -8,4 +8,7 @@ https://github.com/icebeam7/Demos-Sesion-8
 https://docs.github.com/en/graphql/overview/explorer
 https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#ssh-commit-signature-verification
 
+https://github.com/skills/secure-repository-supply-chain/
+
+
 
